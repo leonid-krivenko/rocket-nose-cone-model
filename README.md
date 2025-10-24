@@ -1,6 +1,11 @@
 # Parabolic Nose Cone Simulation
 
-This repository contains a Python-based simulation and visualization of a **parabolic rocket nose cone**, developed as part of the **MITES Semester** engineering design project. The model generates two- and three-dimensional representations of a parabolic nose cone using analytical geometry and numerical computation.
+This repository contains a Python-based simulation and visualization of a **parabolic rocket nose cone**, developed as part of a **team project** during the **MITES Semester** program.  
+Our team designed and built a water- and gas-pressure powered rocket, and this simulation was used to model the shape of the nose cone before construction.  
+We presented the project and flight results at the **MITES Final Symposium**, where each team showcased their design process, challenges, and test outcomes.
+
+The model generates both two- and three-dimensional representations of a parabolic nose cone using analytical geometry and numerical computation.
+
 
 ---
 
@@ -66,6 +71,13 @@ There are a few ideas I want to explore next to make it more realistic and usefu
 - Combine this with rocket **thrust and pressure equations** to predict flight height more accurately.
 
 These updates would make the simulation closer to a full design and testing tool for small rockets.
+
+---
+
+## 9. Project Presentation
+
+You can view the full presentation for this project here:  
+[Parabolic Nose Cone Design — Google Slides](https://docs.google.com/presentation/d/1PXOC3wEk3TdN9Ei_NpkPwC9MkgzCngJqZwUKf0lJMm4/edit?slide=id.g3723f34a36b_1_208#slide=id.g3723f34a36b_1_208)
 
 
 
